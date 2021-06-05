@@ -11,3 +11,14 @@ way to much, thereby reducing the flexibility for developers to have their own d
 #security
 
 for security we use JWT token,it will help to secure our API's.
+
+Steps to Setup
+1. Install dependencies
+	
+	npm install
+
+2. Run server
+
+	node server.js
+
+You can browse the apis at http://localhost:3000
