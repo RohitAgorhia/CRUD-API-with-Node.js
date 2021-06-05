@@ -1,0 +1,37 @@
+{
+  "name": "kudos",
+  "version": "1.0.0",
+  "description": "Never miss a thing in Life.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Notes"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.13",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.11",
+    "nodemailer-smtp-transport": "^2.7.4",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://RohitAgrohia@bitbucket.org/delainetech/kudosnodejs.git"
+  },
+  "homepage": "https://bitbucket.org/delainetech/kudosnodejs#readme"
+}
